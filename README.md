@@ -1,0 +1,3 @@
+- Hi, I’m @hello-ecram a second year student of software engieneering
+- I'm currently learning web deloping
+- I'm working on a presentation websyte right now
